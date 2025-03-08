@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on my Portfolio
-- 🌱 I’m currently learning last version of Angular
+- 🔭 I’m currently working on my Portfolio and my personal project "ZYTAPP".
+- 🌱 I’m always learning last versions of Angular.
 - 👯 I’m looking to collaborate on Angular Projects!
 
 <!--
