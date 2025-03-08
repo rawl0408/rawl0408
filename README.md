@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my GitHub! 👋
 
 - 🔭 I’m currently working on my Portfolio and my personal project "ZYTAPP".
 - 🌱 I’m always learning last versions of Angular.
