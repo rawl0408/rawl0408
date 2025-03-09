@@ -1,6 +1,6 @@
 ## Hello! Welcome to my GitHub! 👋
 
-I'm Raul, growing as Frontend developer. Actually I'm living in Barcelona. I like to work with Angular (last versions are amazing!) and HTML | CSS | BOOTSTRAP
+I'm Raul, Frontend developer. Actually I'm living in Barcelona. I like to work with ANGULAR | HTML | CSS | BOOTSTRAP.
 
 - 🔭 I’m currently working on my Portfolio and my personal project "ZYTAPP".
 - 🌱 I’m always learning last versions of Angular.
