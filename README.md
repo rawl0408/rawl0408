@@ -2,7 +2,7 @@
 
 I'm Raul, Frontend developer. Actually I'm living in Barcelona. I like to work with ANGULAR | HTML | CSS | BOOTSTRAP.
 
-- 🔭 I’m currently working on improve my skills as Frontend Developer.
+- 🔭 I’m currently working on improving my skills as a Frontend Developer.
 - 🌱 I’m always learning last versions of Angular.
 - 👯 I’m looking to collaborate on Angular Projects!
 
